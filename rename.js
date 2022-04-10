@@ -5,11 +5,11 @@ const readline = require('readline')
 const DEFAULT_NAME = 'react-native-module-template'
 const DEFAULT_SHORT_NAME = 'RNModuleTemplate'
 const DEFAULT_URL =
-  'https://github.com/demchenkoalex/react-native-module-template#readme'
+  'https://github.com/imDangerous/react-native-module-template#readme'
 const DEFAULT_GIT_URL =
-  'https://github.com/demchenkoalex/react-native-module-template.git'
+  'https://github.com/imDangerous/react-native-module-template.git'
 const DEFAULT_AUTHOR_NAME = 'Alex Demchenko'
-const DEFAULT_AUTHOR_EMAIL = 'alexdemchenko@yahoo.com'
+const DEFAULT_AUTHOR_EMAIL = 'imflower80@gmail.com'
 
 // Questions list
 const QUESTION_NAME = `Enter library name (use kebab-case) (default ${DEFAULT_NAME}): `
